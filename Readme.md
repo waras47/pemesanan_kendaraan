@@ -46,4 +46,4 @@ Aplikasi ini menggunakan MySQL sebagai basis data.
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/waras47/pemesanan_kendaraan.git
